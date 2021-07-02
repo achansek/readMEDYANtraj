@@ -1,0 +1,22 @@
+classdef chem
+    properties
+   LD;
+   MD;
+   AD;
+   FA;
+   LA;
+   MOA;
+BD;
+CD;
+ED;
+BA;
+CA;
+PA;
+MA;
+ENA;
+FO;
+FOA;
+FM;
+FP;
+    end        
+end
