@@ -52,3 +52,7 @@ X=r(1).s(10).f.coord_cell;
 Above command will store the filament coordinates  corresponding to run 1 and snapshot 10 as a 1d cell array in variable X.
 
 Similar options are available for other trajectory files as well.
+
+# Visualizing trjectory
+
+Please refer to the MEDYAN usage guide to see the steps to visualize the PDB file in VMD.
