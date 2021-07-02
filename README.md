@@ -5,3 +5,4 @@ MATLAB(R) code to parse trajectories generated in MEDYAN.
 Generates a .mat file with trajectory data and a PDB file that has the trajectory snapshots saved similar to NMR models.
 
 # Execution 
+Test script here.
